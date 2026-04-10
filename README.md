@@ -2,8 +2,8 @@
 ### Network Technician (TKJ) | Full-Stack Web Developer
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fahressa3007&show_icons=true&theme=dark&hide_border=false" alt="Fahressa's Stats" height="150" />
-  <img src="https://github-readme-stats-two-no-border.vercel.app/api/top-langs/?username=Fahressa3007&layout=compact&theme=dark" alt="Top Langs" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahressa3007&theme=dark" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fahressa3007&theme=dark" height="150" />
 </p>
 
 ---
