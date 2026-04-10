@@ -1,16 +1,22 @@
-## Hi there 👋
+# Halo, Saya Fahressa! 👋
+### Network Technician (TKJ) | Full-Stack Web Developer
 
-<!--
-**Fahressa3007/Fahressa3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahressa3007&show_icons=true&theme=radical" alt="Fahressa's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahressa3007&layout=compact&theme=radical" alt="Top Langs" height="150" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Networking Skills
+* **Infrastructure:** MikroTik Configuration, Cisco Packet Tracer, VLAN, Routing (RIP, OSPF).
+* **Development:** HTML5, CSS3, PHP, MySQL, SQLite.
+* **Tools:** Winbox, VS Code, Git/GitHub.
+
+### 🎯 Current Focus
+* ⚡ Developing **"Flow"** (Personal Project Hub).
+* 🇰🇷 Preparing for G-to-G Program (South Korea).
+* 🎓 Student at SMK Negeri 1 Kediri.
+
+---
+*“TKJ: Teknik Komputer Jaringan, tetap koding walau mata miring.”*
