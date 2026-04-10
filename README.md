@@ -13,10 +13,10 @@
 * **Development:** HTML5, CSS3, PHP, MySQL, SQLite.
 * **Tools:** Winbox, VS Code, Git/GitHub.
 
-### 🎯 Current Focus
-* ⚡ Developing **"Flow"** (Personal Project Hub).
-* 🇰🇷 Preparing for G-to-G Program (South Korea).
+### 🎯 Portfolio & Goals
+* ⚡ Developing **"Flow"** (Personal Project Hub) as my main web repository.
+* 💻 Focused on **Full-Stack Development** and **Network Infrastructure**.
 * 🎓 Student at SMK Negeri 1 Kediri.
 
 ---
-*“TKJ: Teknik Komputer Jaringan, tetap koding walau mata miring.”*
+*“Building reliable networks and scalable web solutions.”*
