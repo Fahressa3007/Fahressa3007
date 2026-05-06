@@ -20,7 +20,7 @@
 *   ⚡ Developing "**Flow**" (Personal Project Hub) as my main web repository.
 *   💻 Focused on Full-Stack Development and Network Infrastructure.
 *   🎓 Recent IT Graduate from SMK Negeri 1 Kediri (Teknik Komputer dan Jaringan).
-*   🌱 Currently exploring 3D modeling for web integration and documenting WSL environments.
+*   🌱 Currently exploring WSL environments.
 
 ---
 *"Building reliable networks and scalable web solutions."*
